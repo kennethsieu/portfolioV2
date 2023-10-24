@@ -208,12 +208,11 @@ const IndexPage: React.FC<PageProps> = () => {
             <div className="container">
               <div className="text-info">
                 <div className="block-title"> Ink </div>
-                <div className="info"> An animation created using <b>Maya</b> for UCBugg, a student-run 3D animation class at UC Berkeley. 
-              I took charge of <b>modeling, rigging, skinning, and animating the monster</b>. Additionally, I handled <b>camera control</b> and <b>post-production editing</b>.
+                <div className="info"> 'Ink' is an animation created using <b>Maya</b> for UCBugg, a student-run 3D animation class at UC Berkeley. 
+              I took charge of <b>modeling, rigging, skinning, and animating the monster</b>. Additionally, I handled both the <b>camera control</b> and <b>post-production editing</b>.
               <br></br>
               <br></br>
-              My partner, Cynthia Xiong, pitched the concept and took responsibility for modeling and skinning all other assets. 
-              Additionally, she handled the coloring, shading, and lighting of every asset.</div>
+              My partner, Cynthia Xiong, pitched the concept and took responsibility for modeling and skinning all other assets. Additionally, she handled the coloring, shading, and lighting of every asset.</div>
               </div>
               <div className="media">
               <iframe src="https://www.youtube.com/embed/BCw64MGOHVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -226,10 +225,10 @@ const IndexPage: React.FC<PageProps> = () => {
               </div>
               <div className="text-info">
                 <div className="block-title"> Live2D Model </div>
-                <div className="info"> Originally, I only learned <b>Live2D</b> to make animations in Unity faster. However I had a little too much fun and ended up experimenting with the software alot.
+                <div className="info"> Originally, I only learned <b>Live2D</b> to make animations in Unity faster. However, I had a little too much fun and ended up experimenting with the software.
               <br></br>
               <br></br>
-              The model shown on the left is my 4th model. It took me about 25 hours to make. I drew the model in <b>Clip Studios</b> and rigged it fairly quickly. It is a significant improvement from my first model which I do not dare show. </div>
+              The model shown is my 4th model. It took me about 25 hours to make. I drew the model in <b>Clip Studio</b> and rigged it fairly quickly. It is a significant improvement from my first model. </div>
               </div>
             </div>
             <div className="container">
@@ -238,8 +237,7 @@ const IndexPage: React.FC<PageProps> = () => {
                   <div className="info"> I am a Computer Science Major who graduated from UC Berkeley in May of 2023. 
                 <br></br>
                 <br></br>
-                I am best at full-stack and game development. I taught and lead a student run Video Game Development and Design course at the University for about 2 year.
-                However, I am alway open to learn new software, regardless of disconnected it is from my original major. 
+                I am best at full-stack and game development. I taught and led a student-run Video Game Development and Design course at the University for about two years. However, I am always open to learn new software, regardless of how disconnected it is from my original major.
                 <br></br>
                 <br></br>
                 Outside of academics, I really enjoy dancing. I even had the opportunity to direct my own dance team.
@@ -261,10 +259,10 @@ const IndexPage: React.FC<PageProps> = () => {
               <div className="text-info">
                 <div className="block-title">The Twilight Market</div>
                 <div className="info">
-                  The Twilight Market is a project started in 2021. Originally it was a dark fantasy visual novel made in <b>Godot</b>. However, we decided to expand the scope and turn it into a card game and changed to the Unity Engine. 
+                  The Twilight Market is a project started in 2021. Originally, it was a dark fantasy visual novel made in <b>Godot</b>. However, our team decided to expand the scope and turn it into a card game, transferring it to the Unity Engine. 
                   <br></br>
                   <br></br>
-                  Currently, I've done a little of everything aside 2D Art. For instance, Coding, Designing Game Systems, Dialogue, Animation, Rigging and Creating 3D assets. 
+                  Currently, I've done a little of everything aside from 2D Art. Some contributions include: Coding, Designing Game Systems, Dialogue, Animation, Rigging and Creating 3D assets. 
                   <br></br>
                   <br></br>
                   The art was made by my friend Calvin! Check him out @calvin_beeman_weber on instagram
@@ -293,10 +291,10 @@ const IndexPage: React.FC<PageProps> = () => {
               <div className="text-info">
                 <div className="block-title">OPERATION: SPYFX</div>
                 <div className="info">
-                  OPERATION: SPYFX was a dance team I directed in Spring 2023. I created an interative website in order to generate hype and to trick people into performing in a SPY x FAMILY themed set. (This was very sucessful) 
+                  OPERATION: SPYFX was a dance team I directed in Spring 2023. To introduce and gather attention for our team’s concept, I created an interactive website (This was very sucessful).
                   <br></br>
                   <br></br>
-                  The site was password protected, had glitchy visual elements and accessible on mobile and PC. Everything was created using a combination of <b>React.js, Typescript, and CSS </b> without any additional plugins.
+                  The site is password protected, includes glitchy visual elements, and is accessible on mobile and PC. Everything was created using a combination of <b>React.js, Typescript, and CSS </b> without any additional plugins.
                   <br></br>
                   <br></br>
                   You can view the site <a href="https://tinyurl.com/operationspyfx" target="_blank">here</a>, the password is PEANUTS
@@ -306,10 +304,10 @@ const IndexPage: React.FC<PageProps> = () => {
             <div className="container">
               <div className="text-info">
                 <div className="block-title">Glade of the Gray</div>
-                <div className="info"> This is a game I pitched and developed over a period of 6 weeks with 3 other people. 
+                <div className="info"> This is a game I pitched and developed over a period of six weeks with three other people. 
                 <br></br>
                 <br></br>
-                I created the overall concept and programmed the card-based fighting system. While it's a bit rough it a precursor to what I'm currently working on.
+                I created the overall concept and programmed the card-based fighting system. Although it is a rough draft, it is a precursor to what I'm currently working on.
                 <br></br>
                 <br></br>
                 You can play the game on browser at 
@@ -331,11 +329,10 @@ const IndexPage: React.FC<PageProps> = () => {
                   <div className="info"> I am a Computer Science Major who graduated from UC Berkeley in May of 2023. 
                 <br></br>
                 <br></br>
-                I am best at full-stack and game development. I taught and lead a student run Video Game Development and Design course at the University for about 2 year.
-                However, I am alway open to learn new software, regardless of disconnected it is from my original major. 
+                I am best at full-stack and game development. I taught and led a student-run Video Game Development and Design course at the University for about two years. However, I am always open to learn new software, regardless of how disconnected it is from my original major.
                 <br></br>
                 <br></br>
-                Outside of academics, I really enjoy dancing. I even had the opportunity to direct my own dance team.
+                Outside of academics, I enjoy dancing. I even had the opportunity to direct my own dance team.
                 </div>
                 </div>
                 
