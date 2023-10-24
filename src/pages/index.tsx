@@ -173,13 +173,6 @@ const IndexPage: React.FC<PageProps> = () => {
     }
   }
 
-  function overflow() {
-    if(bodyFlow) {
-      return 'hidden';
-    } else {
-      return 'visable';
-    }
-  }
 
   return (
     <React.Fragment>
@@ -189,7 +182,7 @@ const IndexPage: React.FC<PageProps> = () => {
         <link href="https://fonts.googleapis.com/css2?family=Karla:wght@600&display=swap" rel="stylesheet"/>
         <link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;600&display=swap" rel="stylesheet"></link>
     </head>
-    <body style={{overflow: overflow()}}>
+    <body>
       {bodyFlow && (
             <div className="opener">
               <div className="clickdiv">
